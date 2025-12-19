@@ -1,0 +1,7 @@
+echo "# trg_CTS_Revature" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ajaykiran21/trg_CTS_Revature.git
+git push -u origin main
